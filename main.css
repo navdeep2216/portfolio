@@ -74,7 +74,7 @@ h1, h2, h3, h4, h5, h6, p{
 
 .header{
     min-height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("images/header.jpg") center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("header.jpg") center/cover no-repeat;
     color: #fff;
 }
 .top-nav a{
@@ -229,7 +229,7 @@ blockquote span{
 }
 .sec-one-left{
     height: 100vh;
-    background: url("images/project-main.jpeg") center/cover no-repeat;
+    background: url("project-main.jpeg") center/cover no-repeat;
     box-shadow: 0px 0px 14px -1px rgba(0, 0, 0, 0.75);
     -webkit-box-shadow: 0px 0px 14px -1px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 0px 0px 14px -1px rgba(0, 0, 0, 0.75);
@@ -269,12 +269,12 @@ blockquote span{
     grid-column-gap: 20px;
 }
 .work-img-1{
-    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url("images/project-1.jpg") center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url("project-1.jpg") center/cover no-repeat;
     height: 400px;
     transition: var(--transition);
 }
 .work-img-2{
-    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url("images/project-2.jpg") center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url("project-2.jpg") center/cover no-repeat;
     height: 400px;
     transition: var(--transition);
 }
